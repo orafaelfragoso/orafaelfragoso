@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Rafael Fragoso
 
-<img align="right" width="500" height="500" src="logo.png">
+<img align="right" width="300" height="300" src="logo.png">
 
 I'm a passionate full-stack software engineer from Brazil.
 
