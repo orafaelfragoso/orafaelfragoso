@@ -18,9 +18,9 @@ Keep on hacking!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/orafaelfragoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="orafaelfragoso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafaelfragosom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafaelfragosom" height="30" width="40" /></a>
-<a href="https://instagram.com/orafaelfragoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="orafaelfragoso" height="30" width="40" /></a>
-<a href="/https://rafaelfragoso.com/rss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://rafaelfragoso.com/rss/" height="30" width="40" /></a>
+<a href="https://twitter.com/orafaelfragoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="orafaelfragoso" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rafaelfragosom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="rafaelfragosom" height="30" width="30" /></a>
+<a href="https://instagram.com/orafaelfragoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="orafaelfragoso" height="30" width="30" /></a>
+<a href="/https://rafaelfragoso.com/rss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/rss.png" alt="https://rafaelfragoso.com/rss/" height="30" width="30" /></a>
 </p>
 
