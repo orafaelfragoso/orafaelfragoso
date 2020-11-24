@@ -9,15 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
-      - name: Cache auth credentials
-        uses: actions/cache@v2
-        env:
-          cache-name: cache-auth-credentials
+      - uses: actions/cache@v2
         with:
-          path: auth.json
-          key: ${{ env.cache-name }}
-          restore-keys: |
-            ${{ env.cache-name }}-
+          path: '**/auth.json'
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/auth.json') }}
       - uses: orafaelfragoso/run-tracker-workflow@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
