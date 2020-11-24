@@ -9,8 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
+      - name: Cache auth credentials
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-auth-credentials
+        with:
+          path: auth.json
+          key: ${{ env.cache-name }}
+          restore-keys: |
+            ${{ env.cache-name }}-
       - uses: orafaelfragoso/run-tracker-workflow@main
-      - run: yarn install
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RUNNING_GOAL: ${{ secrets.RUNNING_GOAL }}
