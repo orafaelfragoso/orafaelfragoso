@@ -14,6 +14,7 @@ Keep on hacking!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Guia Para Criar o Seu Próprio Virtual DOM](https://rafaelfragoso.com/guia-completo-para-criar-o-seu-proprio-virtual-dom/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
