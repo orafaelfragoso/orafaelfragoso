@@ -14,6 +14,7 @@ Keep on hacking!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [O Que Vem Depois da Turbulência?](https://rafaelfragoso.com/o-que-vem-depois-da-turbulencia/)
 - [Guia Para Criar o Seu Próprio Virtual DOM](https://rafaelfragoso.com/guia-completo-para-criar-o-seu-proprio-virtual-dom/)
 <!-- BLOG-POST-LIST:END -->
 
