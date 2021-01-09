@@ -14,7 +14,7 @@ Keep on hacking!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A Verdade Sobre o Meu 2020: Talvez Isso Te Ajude](https://rafaelfragoso.com/o-que-vem-depois-da-turbulencia/)
+- [A Verdade Sobre o Meu 2020: Talvez Isso Te Ajude](https://rafaelfragoso.com/a-verdade-sobre-o-meu-2020-talvez-isso-te-ajude/)
 - [Guia Para Criar o Seu Próprio Virtual DOM](https://rafaelfragoso.com/guia-completo-para-criar-o-seu-proprio-virtual-dom/)
 <!-- BLOG-POST-LIST:END -->
 
