@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Rafael Fragoso
 
-<img align="right" width="300" height="300" src="logo.png">
-
 I'm a passionate full-stack software engineer from Brazil.
 
 Between being  a full-time dad and a full-stack developer, I venture myself on learning new programming languages like Golang or Rust during my free time.
